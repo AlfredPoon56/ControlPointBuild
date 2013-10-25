@@ -1,0 +1,10 @@
+C:\ControlPoint_Build\UScripts2013\Deployment\Deployment\bin\Debug\Deployment.exe.config
+C:\ControlPoint_Build\UScripts2013\Deployment\Deployment\bin\Debug\Deployment.exe
+C:\ControlPoint_Build\UScripts2013\Deployment\Deployment\bin\Debug\Deployment.pdb
+C:\ControlPoint_Build\UScripts2013\Deployment\Deployment\obj\Debug\Deployment.exe
+C:\ControlPoint_Build\UScripts2013\Deployment\Deployment\obj\Debug\Deployment.pdb
+C:\ControlPoint_Build\UScripts2013\Deployment\bin\Debug\Deployment.exe.config
+C:\ControlPoint_Build\UScripts2013\Deployment\obj\Debug\Deployment.exe
+C:\ControlPoint_Build\UScripts2013\Deployment\obj\Debug\Deployment.pdb
+C:\ControlPoint_Build\UScripts2013\Deployment\bin\Debug\Deployment.exe
+C:\ControlPoint_Build\UScripts2013\Deployment\bin\Debug\Deployment.pdb
